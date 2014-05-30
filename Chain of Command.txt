@@ -1,0 +1,28 @@
+Chain of Command
+
+Principe van de eindopdracht is dat je een aantal entities in het 'leger' hebt.
+Elke entity(of persoon) heeft zijn eigen rang, wapen, tijd in het leger en faction.
+
+Er zijn een aantal functies die er in komen te zitten:
+
+*Een manier om nieuwe entities toe te voegen.
+*Wanneer er een argument ontstaat tussen twee entities ontstaat er een berekening waarin de
+ eigenschappen van de entities worden bepaalt om het resultaat te berekenen.
+*Wanneer er een gevecht ontstaat vechten alle entiteiten van beide factions elkaar op een 'toernooi' formaat http://my.wcg.com/assets/wcg/images/cso_bracket.jpg .
+
+
+De opdracht is tof om te bouwen:
+Zeker wel, het zal een hele uitdaging zijn om er een goed systeem te berekenen om de resultaten te berekenen en het toernooi formaat op te stellen.
+
+De opdracht geeft de student genoeg diepgang:
+Ja, er is genoeg ruimte om van alles uit te breiden en ingewikkelder te maken. Bijvoorbeeld door een entity eerst als normale persoon te genereren met een aantal stats
+die dan bepalen hoe goed de entity als soldaat werkt.
+
+De opdracht maakt gebruik van 3 objecten, waarvan 1 een overervingsrelatie heeft met een ander object:
+Het is zeker mogelijk om meer dan 3 objecten in de eindopdracht te stoppen, nogmaals is het zeer goed uit te breiden.
+
+Bij de opdracht is het logisch om een MV* pattern toe te passen:
+Er zullen zeker veel dingen moeten worden opgeslagen voor de werking van het programma.
+
+Er zijn meerdere events nodig voor een goede werking van het programma:
+Er zitten meerdere functionaliteiten in het programma voordat het eindresultaat kan worden berekent.
